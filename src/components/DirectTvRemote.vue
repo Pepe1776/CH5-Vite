@@ -1,6 +1,6 @@
 <template>
   <div class="flex">
-    <router-link to="/">
+    <router-link to="/living">
       <Icon icon="icon-park:back" width="8rem" class="ml-20" />
     </router-link>
     <h1
@@ -144,8 +144,8 @@
 
 <script>
 import { Icon } from "@iconify/vue";
-import Ch5button from "./components/Ch5button.vue";
-import Ch5slider from "./components/Ch5slider.vue";
+import Ch5button from "./Ch5button.vue";
+import Ch5slider from "./Ch5slider.vue";
 
 export default {
   components: {
