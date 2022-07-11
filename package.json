@@ -9,7 +9,7 @@
   "dependencies": {
     "reconnecting-websocket": "^4.4.0",
     "vue": "^3.2.31",
-    "vue-router": "^4.0.14",
+    "vue-router": "^4.1.1",
     "vuex": "^4.0.2"
   },
   "devDependencies": {
